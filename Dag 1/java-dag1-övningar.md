@@ -16,7 +16,7 @@ För varje övning:
 
 **Startmall:**
 ```java
-public class HejVarlden {
+public class Main {
     public static void main(String[] args) {
         // Skriv din kod här
     }
@@ -34,7 +34,7 @@ public class HejVarlden {
 
 **Startmall:**
 ```java
-public class ProduktVariabler {
+public class Main {
     public static void main(String[] args) {
         // Definiera dina variabler här
         
@@ -56,7 +56,7 @@ public class ProduktVariabler {
 
 **Startmall:**
 ```java
-public class Produktinfo {
+public class Main {
     public static void main(String[] args) {
         // Definiera variabler för en produkt
         
@@ -78,7 +78,7 @@ public class Produktinfo {
 
 **Startmall:**
 ```java
-public class PrisBerakning {
+public class Main {
     public static void main(String[] args) {
         int pris = 100;
         int antal = 3;
@@ -99,7 +99,7 @@ public class PrisBerakning {
 
 **Startmall:**
 ```java
-public class MomsBerakning {
+public class Main {
     public static void main(String[] args) {
         int prisUtanMoms = 100;
         
@@ -122,7 +122,7 @@ public class MomsBerakning {
 
 **Startmall:**
 ```java
-public class Lagerhantering {
+public class Main {
     public static void main(String[] args) {
         int lagerAntal = 10;
         
@@ -151,7 +151,7 @@ public class Lagerhantering {
 
 **Startmall:**
 ```java
-public class TextManipulering {
+public class Main {
     public static void main(String[] args) {
         String produktBeskrivning = "Elegant kaffemugg i porslin, tillverkad i Sverige";
         
@@ -176,7 +176,7 @@ public class TextManipulering {
 
 **Startmall:**
 ```java
-public class TextSökning {
+public class Main {
     public static void main(String[] args) {
         String beskrivning = "Handgjord keramikmugg med unikt mönster, perfekt för både kaffe och te.";
         
@@ -200,7 +200,7 @@ public class TextSökning {
 
 **Startmall:**
 ```java
-public class CSVData {
+public class Main {
     public static void main(String[] args) {
         String produktData = "Kaffemugg,Röd,89.50,Porslin,42";
         
@@ -228,7 +228,7 @@ public class CSVData {
 
 **Startmall:**
 ```java
-public class Kundvagn {
+public class Main {
     public static void main(String[] args) {
         // Produktinformation
         String produkt1 = "T-shirt";
@@ -258,7 +258,7 @@ public class Kundvagn {
 
 **Startmall:**
 ```java
-public class ProduktkodParser {
+public class Main {
     public static void main(String[] args) {
         String produktkod = "SWE-TR-L-123456";
         
@@ -291,7 +291,7 @@ public class ProduktkodParser {
 
 **Startmall:**
 ```java
-public class Orderbekräftelse {
+public class Main {
     public static void main(String[] args) {
         // Kundinformation
         String kundNamn = "Anna Andersson";
@@ -324,7 +324,7 @@ public class Orderbekräftelse {
 
 **Startmall:**
 ```java
-public class Priskonverterare {
+public class Main {
     public static void main(String[] args) {
         double pris = 1299.90;
         
@@ -350,7 +350,7 @@ public class Priskonverterare {
 
 **Startmall:**
 ```java
-public class SEOoptimerare {
+public class Main {
     public static void main(String[] args) {
         String produktRubrik = "Exklusiv Handgjord Kaffemugg i Svenskt Porslin - Blå";
         String beskrivning = "Denna vackra kaffemugg är handgjord av erfarna keramiker i Sverige. Perfekt för dig som uppskattar högkvalitativa produkter med lång livslängd. Tillverkad av finaste porslin.";
