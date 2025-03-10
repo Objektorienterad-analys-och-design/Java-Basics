@@ -4,7 +4,7 @@ Dessa övningar fokuserar på de allra första grunderna i Java: variabler, utsk
 
 ## Att komma igång
 För varje övning:
-1. Skapa en ny fil med det angivna klassnamnet (t.ex. `HejVarlden.java`)
+1. Skapa ett nytt Projekt i IntelliJ och checka i 'Add sample code'
 2. Utgå från startmallen som visas
 3. Skriv din kod enligt uppgiftbeskrivningen
 4. Spara och kör programmet för att se ditt resultat
