@@ -78,10 +78,6 @@ För effektiv Java-utveckling rekommenderar vi:
 - **Eclipse**: Öppen källkod med stort ekosystem
 - **NetBeans**: Enkel att komma igång med
 
-### Grundläggande kommandon
-- `javac MinFil.java` - kompilerar Java-filen till bytecode (.class)
-- `java MinFil` - kör det kompilerade programmet
-
 ## Java - Grundläggande syntax
 
 Låt oss se hur grundläggande Java-syntax skiljer sig från JavaScript:
